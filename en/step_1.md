@@ -16,3 +16,4 @@ cam.take_photo("image.jpg")
 
 
 
+beep
