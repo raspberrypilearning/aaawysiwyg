@@ -14,4 +14,4 @@ cam.take_photo("image.jpg")
 --- /code ---
 This is a test! Ha he hee
 
-This should save OK.
+This should save OK. save
