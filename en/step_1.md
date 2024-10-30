@@ -14,4 +14,4 @@ cam.take_photo("image.jpg")
 --- /code ---
 This is a test! Ha he hee
 
-I am saving to draft arara
+I am saving to draft test
