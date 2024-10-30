@@ -12,5 +12,5 @@ cam = Camera()
 cam.take_photo("image.jpg")
 
 --- /code ---
-
-This is a test! Ha he hee
+ 
+This is a test! Ha arara ererere
