@@ -13,7 +13,4 @@ cam.take_photo("image.jpg")
 
 --- /code ---
 
-
-
-
-beep
+This is a test!
